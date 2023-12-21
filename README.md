@@ -3,6 +3,7 @@ A College website using Python to take user inputs as command line arguments to 
 
 ## Problem Statement:
 1. The Python code must generate an output HTML document named "output.html" and an image in the current working directory.
+
 2. The Python program must take as input two parameters as command line arguments.
 3. The first parameter is either "-s" or "-c". "-s" specifies that the second parameter is a student ID and "-c" specifies that the second parameter is a course ID.
 4. The second parameter will be the corresponding student ID or course ID.
