@@ -1,7 +1,7 @@
 # College-Application
 A College website using Python to take user inputs as command line arguments to generate specified output file(s).
 
-## Problem Statement:
+## Requirements
 1. The Python code must generate an output HTML document named "output.html" and an image in the current working directory.
 2. The Python program must take as input two parameters as command line arguments.
 3. The first parameter is either "-s" or "-c". "-s" specifies that the second parameter is a student ID and "-c" specifies that the second parameter is a course ID.
