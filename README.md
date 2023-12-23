@@ -1,4 +1,4 @@
-# College-Application
+# University Management System
 A College website using Python to take user inputs as command line arguments to generate specified output file(s).
 
 ## Requirements
